@@ -21,3 +21,22 @@
     </nav>
     </div>
 </template>
+
+<script>
+
+export default {
+   
+}
+</script>
+<style scoped>
+.container{
+background-color: black;
+}
+.navbar{
+background-color: white;
+}
+
+.navbar-item{
+    color: red;
+}
+</style>
